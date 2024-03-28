@@ -1,10 +1,10 @@
 class Cat {
   private color : string;
   constructor(){
-    this.color = 'red';
+    this.color = 'Red';
   }
   public alert() {
-    console.log('MEW MEW');
+    console.log(this.color + ' cat' + ' MEW MEW');
   }
 }
 const cat = new Cat();
