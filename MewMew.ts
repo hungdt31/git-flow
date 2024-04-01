@@ -5,9 +5,9 @@ class _Cat_ {
     this.color = 'Red';
     this.run();
   }
-
+  
   public alert() {
-    console.log(this.color + ' one MEW MEW');
+    console.log(this.color + ' one MEW MEW ....');
   }
 
   private run() {
