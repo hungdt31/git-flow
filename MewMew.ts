@@ -7,7 +7,7 @@ class _Cat_ {
   }
   
   public alert() {
-    console.log(this.color + ' one MEW MEW ....');
+    console.log(this.color + ' one MEW ME.');
   }
 
   private run() {
